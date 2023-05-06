@@ -1,0 +1,5 @@
+﻿2023-05-06 08:38:00.6851 DEBUG Debug successfully 
+2023-05-06 08:38:00.7340 ERROR Having null value 
+2023-05-06 08:38:00.7340 WARN Any number should not equal to zero 
+2023-05-06 08:38:00.7340 DEBUG Debug successfully 
+2023-05-06 08:38:00.7340 INFO Passed or executed 1 
